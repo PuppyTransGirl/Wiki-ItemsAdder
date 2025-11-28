@@ -1,11 +1,11 @@
 ---
-description: This website helps you configure and create custom items for my plugin.
+description: Ce site vous aide à configurer et créer des items personnalisés pour mon plugin.
 icon: house-blank
 ---
 
 # Welcome
 
-Some pages in this website may contain affiliate links, meaning I get a commission if you decide to make a purchase (at no cost to you).
+Certaines pages sur ce site peuvent contenir des liens d'affiliation, ce qui signifie que je reçois une commission si vous décidez de faire un achat (sans frais pour vous).
 
 ### 💠Quick Links
 
@@ -23,28 +23,28 @@ Some pages in this website may contain affiliate links, meaning I get a commissi
 
 {% embed url="https://lonedev.gitbook.io/old-wiki" %}
 
-### 🌐Social Media
+### 🌐Réseaux Sociaux
 
 * [Patreon](http://patreon.com/lonedev)
 * [Ko-fi](http://a.devs.beer/kofi)
 * [YouTube](http://youtube.com/lonedev)
 * [SpigotMC](https://www.spigotmc.org/members/lonedev.88296/#resources)
-* [Website](https://devs.beer)
-* [Steam Developer Page](https://store.steampowered.com/developer/LoneDev/)
+* [Site](https://devs.beer)
+* [Page Développeur Steam](https://store.steampowered.com/developer/LoneDev/)
 * [Discord](https://discord.gg/4dfnpUK)
 
-## Purchase
+## Achat
 
 {% hint style="warning" %}
-Buy the plugin only from official shops, if you bought it elsewhere you were scammed, ask for a refund.
+Achetez le plugin uniquement sur les sites officiels, si vous l'avez acheté ailleurs vous avez été arnaqué, demandez un remboursement.
 {% endhint %}
 
-### With PayPal
+### Avec PayPal
 
 * [SpigotMC](https://www.spigotmc.org/resources/%E2%9C%A8itemsadder%E2%AD%90emotes-mobs-items-armors-hud-gui-emojis-blocks-wings-hats-liquids.73355/)
 * [Polymart](https://polymart.org/resource/itemsadder-custom-items-etc.1851)
 * [BuiltByBit](https://builtbybit.com/resources/itemsadder-emotes-mobs-items-armors-hud-gui-emojis-blocks-wings-hats-liquids.10839/)
 
-### Without PayPal
+### Sans PayPal
 
 * [Polymart](https://polymart.org/resource/itemsadder-custom-items-etc.1851)
