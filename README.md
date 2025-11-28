@@ -3,11 +3,11 @@ description: Ce site vous aide à configurer et créer des items personnalisés 
 icon: house-blank
 ---
 
-# Welcome
+# Bienvenue
 
 Certaines pages sur ce site peuvent contenir des liens d'affiliation, ce qui signifie que je reçois une commission si vous décidez de faire un achat (sans frais pour vous).
 
-### 💠Quick Links
+### 💠Liens Utiles
 
 {% content-ref url="help/tos.md" %}
 [tos.md](help/tos.md)
