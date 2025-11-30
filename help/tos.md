@@ -4,33 +4,33 @@ icon: circle-info
 
 # Terms Of Service
 
-### Comment demander de l'aide
+### Comment demander du support
 
 {% embed url="https://forum.devs.beer/d/16-getting-support" %}
 
 {% hint style="danger" %}
-Avant d'acheter, veuillez lire attentivement les points suivants:
+Avant d'acheter, n'oubliez pas :
 
 * ⛔ Si vous avez un autre plugin qui utilise un pack de ressources personnalisé, vous devez savoir comment le fusionner avec le pack de ressources ItemsAdder ou désactiver l'autre plugin. Un tutoriel est disponible [ici](../plugin-usage/merge-resourcepacks.md).
 * ⛔ Avant de demander de l'aide, veuillez lire les tutoriels de ce wiki.
 * ⛔ Vous devez avoir des connaissances sur la création/la gestion/la fusion de packs de ressources vanilla Minecraft car ce plugin utilise un pack de ressources personnalisé et modifié pour afficher des textures/modèles personnalisés.\
   S'il vous plaît, si vous n'avez aucune connaissance sur les packs de ressources, n'achetez pas le plugin !
-* ⛔ Il est impossible d'écrire une liste complète de plugins compatibles/incompatibles sans tester chaque plugin sur la planète.
+* ⛔ Il est impossible d'écrire une liste complète de plugins compatibles/incompatibles sans tester chaque plugin sur la planète. Si le plugin ne fonctionne pas avec la configuration de votre serveur, ne demandez pas de remboursement mais [signalez-le](tos.md#bugs-and-issues-and-support) et j'essaierai de trouver une solution.
 * ⛔ [Pas compatible avec certains plugins](https://itemsadder.devs.beer/compatibility-with-other-plugins/not-compatible)
 {% endhint %}
 
 ### Politique de Remboursement
 
 Les remboursements sont généralement à la discrétion du vendeur¹ et peuvent être émis dans des cas particuliers.\
-Conactez le vendeur en utilisant le forum ou par email avant d'ouvrir un litige officiel sur la plateforme de paiement (PayPal, Stripe, etc.)
+Contactez le vendeur via le forum ou par email avant d'ouvrir un litige officiel sur la plateforme de paiement (PayPal, Stripe, etc.)
 
-¹Sauf si la loi de l'état applicable l'exige.
+¹Sauf si la loi applicable l'exige.
 
 ### Pack de Ressources
 
-Ce plugin **exige** que vos **utilisateurs téléchargent** un **pack de ressources** (qui est envoyé automatiquement à la connexion) une seule fois.\
+Ce plugin **nécessite** que vos **utilisateurs téléchargent** un **pack de ressources** (qui est envoyé automatiquement à la connexion) une seule fois.\
 Ce plugin peut ne pas fonctionner avec des plugins qui utilisent des packs de textures de serveur, [lisez ceci pour voir si votre plugin est compatible](../compatibility-with-other-plugins/).\
-Il n'y a pas de plugin Minecraft qui vous permet de charger des assets personnalisés sans packs de ressources, ce n'est pas une limitation d'ItemsAdder, c'est ainsi que le jeu fonctionne.
+Il n'existe aucun plugin Minecraft qui vous permet de charger des assets personnalisés sans packs de ressources, ce n'est pas une limitation d'ItemsAdder, c'est ainsi que le jeu fonctionne.
 
 ### Logiciel Serveur
 
@@ -39,25 +39,25 @@ En utilisant d'autres logiciels serveur, vous acceptez que le plugin puisse ne p
 
 ### **Propriété du Plugin**
 
-NE DÉCOMPILEZ PAS, NE REVENEZ PAS, NE CRACKEZ PAS ET NE REDISTRIBUEZ PAS LE PLUGIN.
+NE DÉCOMPILEZ PAS, NE REVENDEZ PAS, NE CRACKEZ PAS ET NE REDISTRIBUEZ PAS LE PLUGIN.
 
-Vous pouvez utiliser le **plugin uniquement** sur un **serveur** dont **vous êtes propriétaire**.\
+Vous pouvez **uniquement utiliser** le **plugin** sur un **serveur** dont **vous êtes** le **propriétaire**.\
 Les réseaux Bungeecord sont également autorisés.\
 Vous devez vous assurer que votre staff ne fuite pas le plugin et garder votre JAR en sécurité.\
 \
 Si vous souhaitez transférer votre compte ou licence vers un autre compte, vous devez fournir une explication valable via un ticket sur le Discord.
 
-### Bugs, Problèmes et Support
+### Bugs, Problèmes & Support
 
-Si vous avez des problèmes, **n'utilisez pas une mauvaise note** pour attirer mon attention, cela produit l'effet inverse.\
-Je ne peux corriger les bugs que s'ils sont rapportés au bon endroit.\
-Veuillez lire les tutoriels avant de demander de l'aide.\
-Consultez la [FAQ](/faq) pour plus d'informations.\
+Si vous rencontrez des problèmes, **ne laissez pas une évaluation à une étoile** pour attirer mon attention, cela fait l'effet inverse.\
+Je ne peux corriger les bugs que si vous les signalez au bon endroit.\
+Veuillez vous assurer de lire les tutoriels avant de demander de l'aide.\
+Consultez la [FAQ](/faq) pour plus d'infos.\
 Si vous contactez le support, veuillez lire la politique de support.
 
 ### Mises à Jour
 
-Une fois votre achat approuvé, vous pourrez télécharger la ressource. Vous n'êtes garanti que d'un accès à une seule version, en l'état. Aucun téléchargement supplémentaire ou mise à jour n'est garanti.
+Une fois votre achat approuvé, vous pourrez télécharger cette ressource. Vous avez seulement la garantie de pouvoir télécharger cette ressource, telle quelle, une fois. Aucun téléchargement supplémentaire ou mise à jour n'est garanti.
 
 ## 🆘 Politique de Support
 
@@ -72,20 +72,20 @@ Tout utilisateur spammeur sera ignoré.
 
 #### Pas de support si les informations fournies sont insuffisantes
 
-C'est votre responsabilité de fournir toutes les informations nécessaires concertant votre problème.\
+Il est de votre responsabilité de nous donner toutes les informations liées à votre problème.\
 Nous ne pouvons pas aider sans informations suffisantes.\
-Vous n'obtiendrez pas de support si votre demande est incomplète.
+Vous n'obtiendrez pas de support si votre demande d'aide ne contient pas assez d'informations.
 
 ## 🖌️Politique de Création d'Addons
 
 Vous pouvez vendre des **packs personnalisés, textures, configurations...** compatibles avec ce plugin ou des presets de plugin.\
 [Un don](https://a.devs.beer/lonedevdonate) est apprécié si vous gagnez beaucoup grâce à eux.\
-Lisez la [politique de création d'addons](tos.md#politique-de-création-daddons).
+Assurez-vous de lire la [politique de création d'addons](tos.md#politique-de-création-daddons).
 
-### Création d'Addons Uniques
+### Création d'Addons uniques
 
-Lors de la création d'addons, vous n'êtes pas autorisé à inclure des éléments provenant du pack **ItemsAdder** par défaut.\
-N'INCLUEZ PAS MES ITEMS PAR DÉFAUT, MODÈLES, IMAGES DE POLICE, etc., DANS VOS ADDONS OU PACKS !\
+Lors de la création d'addons, vous n'êtes pas autorisé à inclure des éléments provenant du pack **ItemsAdder** par défaut\
+N'INCLUEZ PAS MES ITEMS PAR DÉFAUT, MODÈLES, IMAGES DE POLICE, ETC., DANS VOS ADDONS OU PACKS !\
 Vous ne pouvez pas revendre mes assets.
 
 ### Copier les Addons des Autres
