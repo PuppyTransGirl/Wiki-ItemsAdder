@@ -1,9 +1,9 @@
 # Spartan Anti Cheat
 
 {% hint style="warning" %}
-The Geyser (Bedrock edition) version of Spartan Anticheat is not guaranteed to be 100% compatible
+La version Geyser (édition Bedrock) de Spartan Anticheat n'est pas garantie d'être 100% compatible
 {% endhint %}
 
-* [Download the plugin](https://builtbybit.com/resources/spartan-anticheat.11196/)
-* [Discord support server](https://spartan.top/discord)
+* [Télécharger le plugin](https://builtbybit.com/resources/spartan-anticheat.11196/)
+* [Serveur discord de support](https://spartan.top/discord)
 

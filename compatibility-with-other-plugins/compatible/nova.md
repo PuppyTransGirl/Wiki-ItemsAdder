@@ -1,7 +1,7 @@
 # Nova
 
-## [Download Here](https://www.spigotmc.org/resources/nova-%E2%9C%A8-custom-blocks-%E2%9C%85-items-%E2%9C%85-guis-%E2%9C%85-modpack-like-fully-configurable.93648/)
+## [Télécharger ici](https://www.spigotmc.org/resources/nova-%E2%9C%A8-custom-blocks-%E2%9C%85-items-%E2%9C%85-guis-%E2%9C%85-modpack-like-fully-configurable.93648/)
 
-## How to add compatibility?
+## Comment ajouter la compatibilité ?
 
-WARNING: this tutorial must be rewrote. Please stay tuned.
+ATTENTION: ce tutoriel doit être réécrit. Restez à l'affût.

@@ -1,7 +1,7 @@
 # Citizens
 
-## [Download here](https://ci.citizensnpcs.co/job/citizens2/)
+## [Télécharger ici](https://ci.citizensnpcs.co/job/citizens2/)
 
-## Spigot page:
+## Page Spigot:
 
 {% embed url="https://www.spigotmc.org/resources/citizens.13811/" %}

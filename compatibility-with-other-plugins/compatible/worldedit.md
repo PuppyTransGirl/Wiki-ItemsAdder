@@ -1,8 +1,8 @@
 # WorldEdit
 
-## How to add compatibility
+## Comment ajouter la compatibilité
 
-Download the official **ItemsAdder-WorldEdit** addon here:
+Téléchargez l'addon officiel **ItemsAdder-WorldEdit** ici :
 
 {% embed url="https://www.spigotmc.org/resources/79012/" %}
 
