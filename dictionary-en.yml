@@ -1,560 +1,560 @@
 info:
   namespace: itemsadder_stuff
-  dictionary-lang: "en"
+  dictionary-lang: "fr"
 dictionary:
-  display-name-example_item: Example Item
-  display-name-ruby_head: Ruby helmet
-  display-name-ruby_chest: Ruby chestplate
-  display-name-ruby_legs: Ruby leggings
-  display-name-ruby_boots: Ruby boots
-  display-name-spinel_head: Spinel helmet
-  display-name-spinel_chest: Spinel chestplate
-  display-name-spinel_legs: Spinel leggings
-  display-name-spinel_boots: Spinel boots
-  display-name-turquoise_head: Turquoise helmet
-  display-name-turquoise_chest: Turquoise chestplate
-  display-name-turquoise_legs: Turquoise leggings
-  display-name-turquoise_boots: Turquoise boots
-  display-name-aqua_head: Aqua Aura helmet
-  display-name-aqua_chest: Aqua Aura chestplate
-  display-name-aqua_legs: Aqua Aura leggings
-  display-name-aqua_boots: Aqua Aura boots
-  display-name-amethyst_head: Amethyst helmet
-  display-name-amethyst_chest: Amethyst chestplate
-  display-name-amethyst_legs: Amethyst leggings
-  display-name-amethyst_boots: Amethyst boots
-  display-name-emerald_head: Emerald helmet
-  display-name-emerald_chest: Emerald chestplate
-  display-name-emerald_legs: Emerald leggings
-  display-name-emerald_boots: Emerald boots
-  display-name-obsidian_head: Obsidian helmet
-  display-name-obsidian_chest: Obsidian chestplate
-  display-name-obsidian_legs: Obsidian leggings
-  display-name-obsidian_boots: Obsidian boots
-  display-name-mysterious_chest: Mysterious chestplate
-  display-name-mysterious_legs: Mysterious leggings
-  display-name-mysterious_boots: Mysterious boots
-  display-name-bronze_head: Bronze helmet
-  display-name-bronze_chest: Bronze chestplate
-  display-name-bronze_legs: Bronze leggings
-  display-name-bronze_boots: Bronze boots
-  display-name-ruby_block: Block of Ruby
-  display-name-crystal_block: Block of Crystal
-  display-name-spinel_block: Block of Spinel
-  display-name-turquoise_block: Block of Turquoise
-  display-name-aqua_aura_block: Block of Aqua Aura
-  display-name-amethyst_block: Block of Amethyst
-  display-name-amethyst_prism_block: Block of Amethyst Prism
-  display-name-crying_obsidian: '&9Crying Obsidian'
-  display-name-nice_stone: Nice Stone
-  display-name-nice_wood: Nice Wood
-  display-name-modern_stone: Modern Stone
-  display-name-modern_sandstone: Modern Sandstone
-  display-name-modern_quartz: Modern Quartz
-  display-name-ruby_ore: Ruby Ore
-  display-name-spinel_ore: Spinel Ore
-  display-name-turquoise_ore: Turquoise Ore
-  display-name-aqua_aura_ore: Aqua Aura Ore
-  display-name-amethyst_ore: Amethyst Ore
-  display-name-bronze_ore: Bronze Ore
-  display-name-mysterious_ore: Mysterious Ore
-  display-name-end_ore: End Ore
-  display-name-restoration_table: Restoration Table
-  display-name-customization_table: Customization Table
-  display-name-iron_dirt_ore: Iron Dirt Ore
-  display-name-gold_dirt_ore: Gold Dirt Ore
-  display-name-coal_dirt_ore: Coal Dirt Ore
-  display-name-blaze_powder_ore: Blaze Powder Ore
-  display-name-nether_alchemy_ore: Nether Alchemy Ore
-  display-name-mysterious_book: Mysterious Book
-  display-name-letter: Letter
-  display-name-mysterious_book_decrypted: Decrypted Mysterious Book
-  display-name-astral_bow: Astral bow
-  display-name-cross_bow: Crossbow
-  display-name-black_bow: Black Dyed Bow
-  display-name-red_bow: Red Dyed Bow
-  display-name-green_bow: Green Dyed Bow
-  display-name-blue_bow: Blue Dyed Bow
-  display-name-purple_bow: Purple Dyed Bow
-  display-name-cyan_bow: Cyan Dyed Bow
-  display-name-tomato_seeds: Tomato Seeds
-  display-name-garlic_seeds: Garlic Seeds
-  display-name-lettuce_seeds: Lettuce Seeds
-  display-name-chili_pepper_seeds: Chili Pepper Seeds
-  display-name-rice_seeds: Rice Seeds
-  display-name-tobacco_seeds: Tobacco Seeds
+  display-name-example_item: Item Exemple
+  display-name-ruby_head: Casque en Rubis
+  display-name-ruby_chest: Plastron en Rubis
+  display-name-ruby_legs: Jambières en Rubis
+  display-name-ruby_boots: Bottes en Rubis
+  display-name-spinel_head: Casque en Spinelle
+  display-name-spinel_chest: Plastron en Spinelle
+  display-name-spinel_legs: Jambières en Spinelle
+  display-name-spinel_boots: Bottes en Spinelle
+  display-name-turquoise_head: Casque en Turquoise
+  display-name-turquoise_chest: Plastron en Turquoise
+  display-name-turquoise_legs: Jambières en Turquoise
+  display-name-turquoise_boots: Bottes en Turquoise
+  display-name-aqua_head: Casque Aqua Aura
+  display-name-aqua_chest: Plastron Aqua Aura
+  display-name-aqua_legs: Jambières Aqua Aura
+  display-name-aqua_boots: Bottes Aqua Aura
+  display-name-amethyst_head: Casque en Améthyste
+  display-name-amethyst_chest: Plastron en Améthyste
+  display-name-amethyst_legs: Jambières en Améthyste
+  display-name-amethyst_boots: Bottes en Améthyste
+  display-name-emerald_head: Casque en Émeraude
+  display-name-emerald_chest: Plastron en Émeraude
+  display-name-emerald_legs: Jambières en Émeraude
+  display-name-emerald_boots: Bottes en Émeraude
+  display-name-obsidian_head: Casque en Obsidienne
+  display-name-obsidian_chest: Plastron en Obsidienne
+  display-name-obsidian_legs: Jambières en Obsidienne
+  display-name-obsidian_boots: Bottes en Obsidienne
+  display-name-mysterious_chest: Plastron Mystérieux
+  display-name-mysterious_legs: Jambières Mystérieuses
+  display-name-mysterious_boots: Bottes Mystérieuses
+  display-name-bronze_head: Casque en Bronze
+  display-name-bronze_chest: Plastron en Bronze
+  display-name-bronze_legs: Jambières en Bronze
+  display-name-bronze_boots: Bottes en Bronze
+  display-name-ruby_block: Bloc de Rubis
+  display-name-crystal_block: Bloc de Cristal
+  display-name-spinel_block: Bloc de Spinelle
+  display-name-turquoise_block: Bloc de Turquoise
+  display-name-aqua_aura_block: Bloc d'Aqua Aura
+  display-name-amethyst_block: Bloc d'Améthyste
+  display-name-amethyst_prism_block: Bloc de Prisme d'Améthyste
+  display-name-crying_obsidian: '&9Obsidienne Pleureuse'
+  display-name-nice_stone: Jolie Roche
+  display-name-nice_wood: Joli Bois
+  display-name-modern_stone: Roche Moderne
+  display-name-modern_sandstone: Grès Moderne
+  display-name-modern_quartz: Quartz Moderne
+  display-name-ruby_ore: Minerai de Rubis
+  display-name-spinel_ore: Minerai de Spinelle
+  display-name-turquoise_ore: Minerai de Turquoise
+  display-name-aqua_aura_ore: Minerai d'Aqua Aura
+  display-name-amethyst_ore: Minerai d'Améthyste
+  display-name-bronze_ore: Minerai de Bronze
+  display-name-mysterious_ore: Minerai Mystérieux
+  display-name-end_ore: Minerai de l'End
+  display-name-restoration_table: Table de Restauration
+  display-name-customization_table: Table de Personnalisation
+  display-name-iron_dirt_ore: Minerai de Fer Terreux
+  display-name-gold_dirt_ore: Minerai d'Or Terreux
+  display-name-coal_dirt_ore: Minerai de Charbon Terreux
+  display-name-blaze_powder_ore: Minerai de Poudre de Blaze
+  display-name-nether_alchemy_ore: Minerai d'Alchimie du Nether
+  display-name-mysterious_book: Livre Mystérieux
+  display-name-letter: Lettre
+  display-name-mysterious_book_decrypted: Livre Mystérieux Décrypté
+  display-name-astral_bow: Arc Astral
+  display-name-cross_bow: Arbalète
+  display-name-black_bow: Arc Teinté Noir
+  display-name-red_bow: Arc Teinté Rouge
+  display-name-green_bow: Arc Teinté Vert
+  display-name-blue_bow: Arc Teinté Bleu
+  display-name-purple_bow: Arc Teinté Violet
+  display-name-cyan_bow: Arc Teinté Cyan
+  display-name-tomato_seeds: Graines de Tomate
+  display-name-garlic_seeds: Graines d'Ail
+  display-name-lettuce_seeds: Graines de Laitue
+  display-name-chili_pepper_seeds: Graines de Piment
+  display-name-rice_seeds: Graines de Riz
+  display-name-tobacco_seeds: Graines de Tabac
   display-name-cola: Cola
-  display-name-hot_chocolate: Hot chocolate
-  display-name-coffee: Coffee
-  display-name-diamonds_finder_potion: Diamonds finder potion
-  display-name-emeralds_finder_potion: Emeralds finder potion
-  display-name-strange_potion: Strange potion
+  display-name-hot_chocolate: Chocolat Chaud
+  display-name-coffee: Café
+  display-name-diamonds_finder_potion: Potion de détection de diamants
+  display-name-emeralds_finder_potion: Potion de détection d'émeraudes
+  display-name-strange_potion: Potion Étrange
   display-name-antidote: Antidote
   display-name-bloody_mary: Bloody Mary
-  display-name-black_fishing_rod: Black Dyed Fishing Rod
-  display-name-red_fishing_rod: Red Dyed Fishing Rod
-  display-name-green_fishing_rod: Green Dyed Fishing Rod
-  display-name-blue_fishing_rod: Blue Dyed Fishing Rod
-  display-name-purple_fishing_rod: Purple Dyed Fishing Rod
-  display-name-cyan_fishing_rod: Cyan Dyed Fishing Rod
+  display-name-black_fishing_rod: Canne à Pêche Teintée Noire
+  display-name-red_fishing_rod: Canne à Pêche Teintée Rouge
+  display-name-green_fishing_rod: Canne à Pêche Teintée Verte
+  display-name-blue_fishing_rod: Canne à Pêche Teintée Bleue
+  display-name-purple_fishing_rod: Canne à Pêche Teintée Violette
+  display-name-cyan_fishing_rod: Canne à Pêche Teintée Cyan
   display-name-pizza: Pizza
   display-name-taco: Taco
   display-name-hamburger: Hamburger
   display-name-chips: Chips
-  display-name-hotdog: Hotdog
-  display-name-tropical_fish_nigiri: Tropical Fish Nigiri
-  display-name-cod_nigiri: Cod Nigiri
-  display-name-salmon_nigiri: Salmon Nigiri
-  display-name-sausage: Sausage
-  display-name-cooked_sausage: Cooked Sausage
+  display-name-hotdog: Hot-dog
+  display-name-tropical_fish_nigiri: Nigiri au Poisson Tropical
+  display-name-cod_nigiri: Nigiri à la Morue
+  display-name-salmon_nigiri: Nigiri au Saumon
+  display-name-sausage: Saucisse
+  display-name-cooked_sausage: Saucisse Cuite
   display-name-baguette: Baguette
-  display-name-broken_egg: Broken egg
-  display-name-fried_egg: Fried egg
-  display-name-peeled_potato: Peeled Potato
-  display-name-potato_sticks: Potato Sticks
-  display-name-fried_potato_sticks: Fried Potato Sticks
-  display-name-french_fries: French Fries
-  display-name-donut_base: Donut base
-  display-name-cooked_donut_base: Cooked Donut base
-  display-name-sweet: Sweet
-  display-name-sweet_stick: Sweet stick
-  display-name-pink_donut: Pink Donut
-  display-name-nether_donut: Nether Donut
-  display-name-cheese: Cheese
-  display-name-pufferfish_nigiri: Pufferfish Nigiri
-  display-name-sliced_bread: Sliced Bread
-  display-name-sliced_baguette: Sliced Baguette
-  display-name-sliced_cheese: Sliced Cheese
-  display-name-blue_parrotfish: Blue Parrotfish
-  display-name-cooked_blue_parrotfish: Cooked Blue Parrotfish
-  display-name-green_sunfish: Green Sunfish
-  display-name-cooked_green_sunfish: Cooked Green Sunfish
-  display-name-goldfish: Goldfish
-  display-name-cooked_goldfish: Cooked Goldfish
-  display-name-black_moor_goldfish: Black Moor Goldfish
-  display-name-cooked_black_moor_goldfish: Cooked Black Moor Goldfish
-  display-name-tuna: Tuna
-  display-name-cooked_tuna: Cooked Tuna
-  display-name-sliced_raw_beef: Sliced Raw Beef
-  display-name-sliced_roast_beef: Sliced Roast Beef
-  display-name-sliced_bread_with_sweet_berries_jam: Sliced Bread With Sweet Barries Jam
-  display-name-sliced_bread_with_pear_jam: Sliced Bread With Pear Jam
-  display-name-sliced_bread_with_apple_jam: Sliced Bread With Apple Jam
-  display-name-old_clock: Old clock
-  display-name-opened_chest: Opened chest
-  display-name-computer_desk: Desk with computer
+  display-name-broken_egg: Œuf Cassé
+  display-name-fried_egg: Œuf au Plat
+  display-name-peeled_potato: Pomme de Terre Épluchée
+  display-name-potato_sticks: Bâtonnets de Pomme de Terre
+  display-name-fried_potato_sticks: Bâtonnets de PDT Frits
+  display-name-french_fries: Frites
+  display-name-donut_base: Base de Donut
+  display-name-cooked_donut_base: Base de Donut Cuite
+  display-name-sweet: Bonbon
+  display-name-sweet_stick: Bâtonnet de Sucre
+  display-name-pink_donut: Donut Rose
+  display-name-nether_donut: Donut du Nether
+  display-name-cheese: Fromage
+  display-name-pufferfish_nigiri: Nigiri au Poisson-globe
+  display-name-sliced_bread: Pain Tranché
+  display-name-sliced_baguette: Baguette Tranchée
+  display-name-sliced_cheese: Fromage en Tranches
+  display-name-blue_parrotfish: Poisson-perroquet Bleu
+  display-name-cooked_blue_parrotfish: Poisson-perroquet Bleu Cuit
+  display-name-green_sunfish: Perche-soleil Verte
+  display-name-cooked_green_sunfish: Perche-soleil Verte Cuite
+  display-name-goldfish: Poisson Rouge
+  display-name-cooked_goldfish: Poisson Rouge Cuit
+  display-name-black_moor_goldfish: Poisson Rouge "Black Moor"
+  display-name-cooked_black_moor_goldfish: "Black Moor" Cuit
+  display-name-tuna: Thon
+  display-name-cooked_tuna: Thon Cuit
+  display-name-sliced_raw_beef: Bœuf Cru Tranché
+  display-name-sliced_roast_beef: Rôti de Bœuf Tranché
+  display-name-sliced_bread_with_sweet_berries_jam: Pain confiture de baies sucrées
+  display-name-sliced_bread_with_pear_jam: Pain confiture de poire
+  display-name-sliced_bread_with_apple_jam: Pain confiture de pomme
+  display-name-old_clock: Horloge Ancienne
+  display-name-opened_chest: Coffre Ouvert
+  display-name-computer_desk: Bureau avec Ordinateur
   display-name-table: Table
-  display-name-lamp: Lamp
-  display-name-simple_chair: Simple Chair
-  display-name-lava_lamp: Lava lamp
-  display-name-white_chair: White chair
-  display-name-glass_table: Glass table
-  display-name-computer_chair: Computer chair
-  display-name-monitor: Monitor
+  display-name-lamp: Lampe
+  display-name-simple_chair: Chaise Simple
+  display-name-lava_lamp: Lampe à Lave
+  display-name-white_chair: Chaise Blanche
+  display-name-glass_table: Table en Verre
+  display-name-computer_chair: Chaise de Bureau
+  display-name-monitor: Écran
   display-name-tv: TV
-  display-name-mini_fridge: Mini fridge
-  display-name-energy_extractor: Energy Extractor
-  display-name-energy_converter: Energy Converter
-  display-name-vending_machine: Vending Machine
-  display-name-coffee_machine: Coffee Machine
-  display-name-mysterious_stone: Mysterious Stone
-  display-name-alchemy_candles: Alchemy Candles
-  display-name-painting_burst: Painting
-  display-name-painting_courbet: Painting
-  display-name-painting_graham: Painting
-  display-name-painting_match: Painting
-  display-name-painting_pool: Painting
-  display-name-painting_skull_and_roses: Painting
-  display-name-painting_stage: Painting
-  display-name-painting_void: Painting
-  display-name-painting_wanderer: Painting
-  display-name-white_bar_chair: White Bar Chair
-  display-name-orange_bar_chair: Orange Bar Chair
-  display-name-magenta_bar_chair: Magenta Bar Chair
-  display-name-light_blue_bar_chair: Light Blue Bar Chair
-  display-name-yellow_bar_chair: Yellow Bar Chair
-  display-name-lime_bar_chair: Lime Bar Chair
-  display-name-pink_bar_chair: Pink Bar Chair
-  display-name-gray_bar_chair: Gray Bar Chair
-  display-name-light_gray_bar_chair: Light Gray Bar Chair
-  display-name-cyan_bar_chair: Cyan Bar Chair
-  display-name-purple_bar_chair: Purple Bar Chair
-  display-name-blue_bar_chair: Blue Bar Chair
-  display-name-brown_bar_chair: Brown Bar Chair
-  display-name-green_bar_chair: Green Bar Chair
-  display-name-red_bar_chair: Red Bar Chair
-  display-name-black_bar_chair: Black Bar Chair
-  display-name-white_wood_chair: White Wood Chair
-  display-name-orange_wood_chair: Orange Wood Chair
-  display-name-magenta_wood_chair: Magenta Wood Chair
-  display-name-light_blue_wood_chair: Light Blue Wood Chair
-  display-name-yellow_wood_chair: Yellow Wood Chair
-  display-name-lime_wood_chair: Lime Wood Chair
-  display-name-pink_wood_chair: Pink Wood Chair
-  display-name-gray_wood_chair: Gray Wood Chair
-  display-name-light_gray_wood_chair: Light Gray Wood Chair
-  display-name-cyan_wood_chair: Cyan Wood Chair
-  display-name-purple_wood_chair: Purple Wood Chair
-  display-name-blue_wood_chair: Blue Wood Chair
-  display-name-brown_wood_chair: Brown Wood Chair
-  display-name-green_wood_chair: Green Wood Chair
-  display-name-red_wood_chair: Red Wood Chair
-  display-name-black_wood_chair: Black Wood Chair
-  display-name-dark_throne: Dark Throne
-  display-name-school_chair: School Chair
-  display-name-school_chair_lazy: School Chair Lazy
-  display-name-white_chandeliers: White Chandeliers
-  display-name-black_chandeliers: Black Chandeliers
-  display-name-black_and_red_chandeliers: Black And Red Chandeliers
-  display-name-small_fountain: Small Fountain
-  display-name-lit_campfire: Lit Campfire
-  display-name-decorative_pumpkin: Decorative Pumpkin
-  display-name-christmas_tree: Christmas Tree
-  display-name-christmas_candle: Christmas Candle
-  display-name-decorative_candy_cane: Decorative Candy Cane
-  display-name-christmas_wreath: Christmas Wreath
+  display-name-mini_fridge: Mini Frigo
+  display-name-energy_extractor: Extracteur d'Énergie
+  display-name-energy_converter: Convertisseur d'Énergie
+  display-name-vending_machine: Distributeur Automatique
+  display-name-coffee_machine: Machine à Café
+  display-name-mysterious_stone: Pierre Mystérieuse
+  display-name-alchemy_candles: Bougies d'Alchimie
+  display-name-painting_burst: Tableau
+  display-name-painting_courbet: Tableau
+  display-name-painting_graham: Tableau
+  display-name-painting_match: Tableau
+  display-name-painting_pool: Tableau
+  display-name-painting_skull_and_roses: Tableau
+  display-name-painting_stage: Tableau
+  display-name-painting_void: Tableau
+  display-name-painting_wanderer: Tableau
+  display-name-white_bar_chair: Tabouret de Bar Blanc
+  display-name-orange_bar_chair: Tabouret de Bar Orange
+  display-name-magenta_bar_chair: Tabouret de Bar Magenta
+  display-name-light_blue_bar_chair: Tabouret de Bar Bleu Clair
+  display-name-yellow_bar_chair: Tabouret de Bar Jaune
+  display-name-lime_bar_chair: Tabouret de Bar Citron
+  display-name-pink_bar_chair: Tabouret de Bar Rose
+  display-name-gray_bar_chair: Tabouret de Bar Gris
+  display-name-light_gray_bar_chair: Tabouret de Bar Gris Clair
+  display-name-cyan_bar_chair: Tabouret de Bar Cyan
+  display-name-purple_bar_chair: Tabouret de Bar Violet
+  display-name-blue_bar_chair: Tabouret de Bar Bleu
+  display-name-brown_bar_chair: Tabouret de Bar Marron
+  display-name-green_bar_chair: Tabouret de Bar Vert
+  display-name-red_bar_chair: Tabouret de Bar Rouge
+  display-name-black_bar_chair: Tabouret de Bar Noir
+  display-name-white_wood_chair: Chaise en Bois Blanc
+  display-name-orange_wood_chair: Chaise en Bois Orange
+  display-name-magenta_wood_chair: Chaise en Bois Magenta
+  display-name-light_blue_wood_chair: Chaise en Bois Bleu Clair
+  display-name-yellow_wood_chair: Chaise en Bois Jaune
+  display-name-lime_wood_chair: Chaise en Bois Citron
+  display-name-pink_wood_chair: Chaise en Bois Rose
+  display-name-gray_wood_chair: Chaise en Bois Grise
+  display-name-light_gray_wood_chair: Chaise en Bois Gris Clair
+  display-name-cyan_wood_chair: Chaise en Bois Cyan
+  display-name-purple_wood_chair: Chaise en Bois Violette
+  display-name-blue_wood_chair: Chaise en Bois Bleue
+  display-name-brown_wood_chair: Chaise en Bois Marron
+  display-name-green_wood_chair: Chaise en Bois Verte
+  display-name-red_wood_chair: Chaise en Bois Rouge
+  display-name-black_wood_chair: Chaise en Bois Noire
+  display-name-dark_throne: Trône Sombre
+  display-name-school_chair: Chaise d'École
+  display-name-school_chair_lazy: Chaise d'École Inclinée
+  display-name-white_chandeliers: Lustre Blanc
+  display-name-black_chandeliers: Lustre Noir
+  display-name-black_and_red_chandeliers: Lustre Noir et Rouge
+  display-name-small_fountain: Petite Fontaine
+  display-name-lit_campfire: Feu de Camp Allumé
+  display-name-decorative_pumpkin: Citrouille Décorative
+  display-name-christmas_tree: Sapin de Noël
+  display-name-christmas_candle: Bougie de Noël
+  display-name-decorative_candy_cane: Sucre d'Orge Décoratif
+  display-name-christmas_wreath: Couronne de Noël
   display-name-revolver: Revolver
-  display-name-hand_gun: Handgun
-  display-name-ak47: Ak-47
-  display-name-shotgun: Shotgun
-  display-name-firework_launcher: Firework Launcher
-  display-name-deadmau5_hat: '&9deadmau5_hat'
-  display-name-top_hat: Top Hat
-  display-name-welding_mask: Welding Mask
-  display-name-mining_helmet: Mining Helmet
-  display-name-dog_mask: Dog Mask
-  display-name-ruby_pickaxe_hat: Ruby Pickaxe Hat
-  display-name-straw_hat: Straw Hat
-  display-name-cool_sunglasses: Cool Sunglasses
-  display-name-cigar: Cigar
-  display-name-glasses: Glasses
-  display-name-biker_helmet: Biker Helmet
-  display-name-cat_ears: Cat Ears
-  display-name-mysterious_hood: Mysterios Hood
-  display-name-demoniac_red_wings: Demoniac Red Wings
-  display-name-demoniac_turquoise_wings: Demoniac Turquoise Wings
-  display-name-demoniac_purple_wings: Demoniac Purple Wings
-  display-name-demoniac_blue_wings: Demoniac Blue Wings
-  display-name-demoniac_black_wings: Demoniac Black Wings
-  display-name-all_black_cat_tail: All Black Cat Tail
-  display-name-black_cat_tail: Black Cat Tail
-  display-name-white_cat_tail: White Cat Tail
-  display-name-ender_dragon_wings: Ender Dragon Wings
-  display-name-red_backpack: Red Backpack
-  display-name-turquoise_backpack: Turquoise Backpack
-  display-name-purple_backpack: Purple Backpack
-  display-name-blue_backpack: Blue Backpack
-  display-name-black_backpack: Black Backpack
-  display-name-brown_backpack: Brown Backpack
-  display-name-jack_o_lantern_backpack: '&6Jack o''Lantern &fBackpack'
-  display-name-dark_jack_o_lantern_backpack: '&4Dark &6Jack o''Lantern &fBackpack'
-  display-name-spider_backpack: Spider &fBackpack
-  display-name-cave_spider_backpack: Cave Spider &fBackpack
-  display-name-bones_backpack: Bones &fBackpack
-  display-name-witch_hat: Witch Hat
-  display-name-bat_wings: Bat Wings
-  display-name-axe_hat: Axe Hat
-  display-name-santa_hat: '&cSanta Hat'
-  display-name-empty_cup: Empty cup
-  display-name-flour: Flour
-  display-name-dough: Dough
-  display-name-cup_of_water: Cup of water
-  display-name-cup_of_hot_water: Cup of hot water
+  display-name-hand_gun: Pistolet
+  display-name-ak47: AK-47
+  display-name-shotgun: Fusil à Pompe
+  display-name-firework_launcher: Lanceur de Feux d'Artifice
+  display-name-deadmau5_hat: '&9Chapeau deadmau5'
+  display-name-top_hat: Haut-de-forme
+  display-name-welding_mask: Masque de Soudure
+  display-name-mining_helmet: Casque de Mineur
+  display-name-dog_mask: Masque de Chien
+  display-name-ruby_pickaxe_hat: Chapeau Pioche en Rubis
+  display-name-straw_hat: Chapeau de Paille
+  display-name-cool_sunglasses: Lunettes de Soleil Cool
+  display-name-cigar: Cigare
+  display-name-glasses: Lunettes
+  display-name-biker_helmet: Casque de Motard
+  display-name-cat_ears: Oreilles de Chat
+  display-name-mysterious_hood: Capuche Mystérieuse
+  display-name-demoniac_red_wings: Ailes Démoniaques Rouges
+  display-name-demoniac_turquoise_wings: Ailes Démoniaques Turquoise
+  display-name-demoniac_purple_wings: Ailes Démoniaques Violettes
+  display-name-demoniac_blue_wings: Ailes Démoniaques Bleues
+  display-name-demoniac_black_wings: Ailes Démoniaques Noires
+  display-name-all_black_cat_tail: Queue de Chat Tout Noir
+  display-name-black_cat_tail: Queue de Chat Noir
+  display-name-white_cat_tail: Queue de Chat Blanc
+  display-name-ender_dragon_wings: Ailes d'Ender Dragon
+  display-name-red_backpack: Sac à Dos Rouge
+  display-name-turquoise_backpack: Sac à Dos Turquoise
+  display-name-purple_backpack: Sac à Dos Violet
+  display-name-blue_backpack: Sac à Dos Bleu
+  display-name-black_backpack: Sac à Dos Noir
+  display-name-brown_backpack: Sac à Dos Marron
+  display-name-jack_o_lantern_backpack: '&fSac à Dos &6Jack o''Lantern'
+  display-name-dark_jack_o_lantern_backpack: '&fSac à Dos &6Jack o''Lantern &4Sombre'
+  display-name-spider_backpack: Sac à Dos &fAraignée
+  display-name-cave_spider_backpack: Sac à Dos &fAraignée Venimeuse
+  display-name-bones_backpack: Sac à Dos &fOsseux
+  display-name-witch_hat: Chapeau de Sorcière
+  display-name-bat_wings: Ailes de Chauve-souris
+  display-name-axe_hat: Chapeau Hache
+  display-name-santa_hat: '&cBonnet de Père Noël'
+  display-name-empty_cup: Tasse Vide
+  display-name-flour: Farine
+  display-name-dough: Pâte
+  display-name-cup_of_water: Tasse d'Eau
+  display-name-cup_of_hot_water: Tasse d'Eau Chaude
   display-name-projectile: Projectile
-  display-name-plastic: Plastic
-  display-name-plastic_plate: Plastic plate
-  display-name-clip: Clip
-  display-name-blank_disc: Blank Disc
-  display-name-music_disc_electric_keys: '&bMusic Disc'
-  display-name-music_disc_cdk_sunday: '&bMusic Disc'
-  display-name-music_disc_vidian_aether_theories: '&bMusic Disc'
-  display-name-ketchup_bottle: Ketchup Bottle
+  display-name-plastic: Plastique
+  display-name-plastic_plate: Assiette en Plastique
+  display-name-clip: Chargeur
+  display-name-blank_disc: Disque Vierge
+  display-name-music_disc_electric_keys: '&bDisque Musical'
+  display-name-music_disc_cdk_sunday: '&bDisque Musical'
+  display-name-music_disc_vidian_aether_theories: '&bDisque Musical'
+  display-name-ketchup_bottle: Bouteille de Ketchup
   display-name-ketchup: Ketchup
-  display-name-chili_powder: Chili Powder
-  display-name-drink_glass: Drink Glass
-  display-name-bug_medal: '&6BugFinder medal'
-  display-name-cute_medal: '&6Cuteness medal'
-  display-name-donator_medal: '&6Donator medal'
-  display-name-energy_orb: '&5Energy Orb'
-  display-name-small_energy_capsule: '&dSmall Energy Capsule'
-  display-name-energy_capsule: '&6Energy Capsule'
-  display-name-iron_plate: Iron Plate
-  display-name-tobacco: Tobacco
-  display-name-nest: Nest
-  display-name-eggs_nest: Eggs Nest
-  display-name-mysterious_artifact: Mysterious Artifact
-  display-name-coin: Coin
-  display-name-banknote: Banknote
-  display-name-sack_of_money: Sack Of Money
-  display-name-plastic_bag: Plastic Bag
-  display-name-four_leaf_clover: Four-leaf Clover
-  display-name-light_blue_coupon: Generic Coupon
-  display-name-turquoise_coupon: Generic Coupon
-  display-name-purple_coupon: Generic Coupon
-  display-name-green_coupon: Generic Coupon
-  display-name-red_coupon: Generic Coupon
-  display-name-black_coupon: Generic Coupon
-  display-name-white_coupon: Generic Coupon
-  display-name-golden_coupon: Generic Coupon
-  display-name-blue_ring: Generic Ring
-  display-name-light_blue_ring: Generic Ring
-  display-name-turquoise_ring: Generic Ring
-  display-name-purple_ring: Generic Ring
-  display-name-green_ring: Generic Ring
-  display-name-red_ring: Generic Ring
-  display-name-black_ring: Generic Ring
-  display-name-white_ring: Generic Ring
-  display-name-golden_ring: Generic Ring
-  display-name-marriage_ring: Marriage Ring
-  display-name-jar: Jar
-  display-name-blue_key: Generic Key
-  display-name-light_blue_key: Generic Key
-  display-name-turquoise_key: Generic Key
-  display-name-purple_key: Generic Key
-  display-name-green_key: Generic Key
-  display-name-red_key: Generic Key
-  display-name-black_key: Generic Key
-  display-name-white_key: Generic Key
-  display-name-golden_key: Generic Key
-  display-name-carton_box: Carton Box
-  display-name-cut_spruce_log: Cut Spruce Log
-  display-name-shotgun_cartridge: Shotgun Cartridge
-  display-name-ruby: Ruby
-  display-name-crystal: Crystal
-  display-name-spinel: Spinel
+  display-name-chili_powder: Poudre de Piment
+  display-name-drink_glass: Verre à Boire
+  display-name-bug_medal: '&6Médaille du Chasseur de Bugs'
+  display-name-cute_medal: '&6Médaille de Mignonnerie'
+  display-name-donator_medal: '&6Médaille de Donateur'
+  display-name-energy_orb: '&5Orbe d''Énergie'
+  display-name-small_energy_capsule: '&dPetite Capsule d''Énergie'
+  display-name-energy_capsule: '&6Capsule d''Énergie'
+  display-name-iron_plate: Plaque de Fer
+  display-name-tobacco: Tabac
+  display-name-nest: Nid
+  display-name-eggs_nest: Nid avec Œufs
+  display-name-mysterious_artifact: Artefact Mystérieux
+  display-name-coin: Pièce
+  display-name-banknote: Billet
+  display-name-sack_of_money: Sac d'Argent
+  display-name-plastic_bag: Sac Plastique
+  display-name-four_leaf_clover: Trèfle à 4 Feuilles
+  display-name-light_blue_coupon: Coupon Bleu Clair
+  display-name-turquoise_coupon: Coupon Turquoise
+  display-name-purple_coupon: Coupon Violet
+  display-name-green_coupon: Coupon Vert
+  display-name-red_coupon: Coupon Rouge
+  display-name-black_coupon: Coupon Noir
+  display-name-white_coupon: Coupon Blanc
+  display-name-golden_coupon: Coupon Doré
+  display-name-blue_ring: Anneau Bleu
+  display-name-light_blue_ring: Anneau Bleu Clair
+  display-name-turquoise_ring: Anneau Turquoise
+  display-name-purple_ring: Anneau Violet
+  display-name-green_ring: Anneau Vert
+  display-name-red_ring: Anneau Rouge
+  display-name-black_ring: Anneau Noir
+  display-name-white_ring: Anneau Blanc
+  display-name-golden_ring: Anneau Doré
+  display-name-marriage_ring: Alliance de Mariage
+  display-name-jar: Bocal
+  display-name-blue_key: Clé Bleue
+  display-name-light_blue_key: Clé Bleu Clair
+  display-name-turquoise_key: Clé Turquoise
+  display-name-purple_key: Clé Violette
+  display-name-green_key: Clé Verte
+  display-name-red_key: Clé Rouge
+  display-name-black_key: Clé Noire
+  display-name-white_key: Clé Blanche
+  display-name-golden_key: Clé Dorée
+  display-name-carton_box: Boîte en Carton
+  display-name-cut_spruce_log: Bûche de Sapin Coupée
+  display-name-shotgun_cartridge: Cartouche de Fusil à Pompe
+  display-name-ruby: Rubis
+  display-name-crystal: Cristal
+  display-name-spinel: Spinelle
   display-name-turquoise: Turquoise
   display-name-aqua_aura: Aqua Aura
-  display-name-amethyst: Amethyst
-  display-name-amethyst_prism: Amethyst prism
-  display-name-fossil: Fossil
-  display-name-bronze_ingot: Bronze Ingot
-  display-name-mysterious_material: Mysterious Material
-  display-name-end_shard: End Shard
-  display-name-end_crystals: End Crystals
-  display-name-end_ingot: End Ingot
-  display-name-knowledge_fragment: Knowledge Fragment
-  display-name-coal_nugget: Coal Nugget
-  display-name-ender_shield: Ender Shield
-  display-name-obsidian_shield: Obsidian Shield
-  display-name-bronze_shield: Bronze Shield
-  display-name-ruby_shield: Ruby Shield
-  display-name-spinel_shield: Spinel Shield
-  display-name-turquoise_shield: Turquoise Shield
-  display-name-amethyst_shield: Amethyst Shield
-  display-name-fossil_shield: Fossil Shield
-  display-name-blue_lightsaber: '&1&lBlue LightSaber'
-  display-name-green_lightsaber: '&2&lGreen LightSaber'
-  display-name-red_lightsaber: '&4&lRed LightSaber'
-  display-name-masters_sword: '&6&lMaster''s Sword'
-  display-name-floating_sword: '&9&lFloating Sword'
-  display-name-baseball_bat: Baseball bat
-  display-name-gandalf_stick: Gandalf Stick
-  display-name-emerald_sword: Emerald Sword
+  display-name-amethyst: Améthyste
+  display-name-amethyst_prism: Prisme d'Améthyste
+  display-name-fossil: Fossile
+  display-name-bronze_ingot: Lingot de Bronze
+  display-name-mysterious_material: Matériau Mystérieux
+  display-name-end_shard: Éclat de l'End
+  display-name-end_crystals: Cristaux de l'End
+  display-name-end_ingot: Lingot de l'End
+  display-name-knowledge_fragment: Fragment de Connaissance
+  display-name-coal_nugget: Pépite de Charbon
+  display-name-ender_shield: Bouclier de l'End
+  display-name-obsidian_shield: Bouclier en Obsidienne
+  display-name-bronze_shield: Bouclier en Bronze
+  display-name-ruby_shield: Bouclier en Rubis
+  display-name-spinel_shield: Bouclier en Spinelle
+  display-name-turquoise_shield: Bouclier en Turquoise
+  display-name-amethyst_shield: Bouclier en Améthyste
+  display-name-fossil_shield: Bouclier Fossile
+  display-name-blue_lightsaber: '&1&lSabre Laser Bleu'
+  display-name-green_lightsaber: '&2&lSabre Laser Vert'
+  display-name-red_lightsaber: '&4&lSabre Laser Rouge'
+  display-name-masters_sword: '&6&lÉpée de Légende'
+  display-name-floating_sword: '&9&lÉpée Flottante'
+  display-name-baseball_bat: Batte de Baseball
+  display-name-gandalf_stick: Bâton de Gandalf
+  display-name-emerald_sword: Épée en Émeraude
   display-name-elucidator_sword: Elucidator
   display-name-repulser_sword: Repulser
-  display-name-firesword_sword: Fire Sword
+  display-name-firesword_sword: Épée de Feu
   display-name-aqualight_sword: Aqualight
   display-name-rusteroth_sword: Rusteroth
   display-name-bloodnite_sword: Bloodnite
   display-name-vyderlight_sword: Vyderlight
-  display-name-ruby_sword: Ruby Sword
-  display-name-crystal_sword: Crystal Sword
-  display-name-spinel_sword: Spinel Sword
-  display-name-turquoise_sword: Turquoise Sword
-  display-name-aqua_sword: Aqua Aura Sword
-  display-name-amethyst_sword: Amethyst Sword
-  display-name-guitar_sword: Guitar Sword
-  display-name-ruby_dagger: Ruby dagger
-  display-name-sweets_sword: Sweets Sword
-  display-name-knife: Knife
-  display-name-philosopher_stone: Philosopher's Stone
-  display-name-chisel: Chisel
-  display-name-mysterious_sword: Mysterious Sword
-  display-name-end_sword: End Sword
-  display-name-bronze_sword: Bronze Sword
-  display-name-sweet_berries_jam_jar: Sweet Barries Jam Jar
-  display-name-pear_jam_jar: Pear Jam Jar
-  display-name-apple_jam_jar: Apple Jam Jar
-  display-name-healing_crystals: Healing Crystals
+  display-name-ruby_sword: Épée en Rubis
+  display-name-crystal_sword: Épée en Cristal
+  display-name-spinel_sword: Épée en Spinelle
+  display-name-turquoise_sword: Épée en Turquoise
+  display-name-aqua_sword: Épée Aqua Aura
+  display-name-amethyst_sword: Épée en Améthyste
+  display-name-guitar_sword: Épée Guitare
+  display-name-ruby_dagger: Dague en Rubis
+  display-name-sweets_sword: Épée Bonbon
+  display-name-knife: Couteau
+  display-name-philosopher_stone: Pierre Philosophale
+  display-name-chisel: Burin
+  display-name-mysterious_sword: Épée Mystérieuse
+  display-name-end_sword: Épée de l'End
+  display-name-bronze_sword: Épée en Bronze
+  display-name-sweet_berries_jam_jar: Bocal de Confiture Baies Sucrées
+  display-name-pear_jam_jar: Bocal de Confiture de Poire
+  display-name-apple_jam_jar: Bocal de Confiture de Pomme
+  display-name-healing_crystals: Cristaux de Soin
   display-name-grenade: Grenade
-  display-name-mysterious_amulet: Mysterious Amulet
-  display-name-ufo_toy: Ufo Toy
-  display-name-ruby_axe: Ruby Axe
-  display-name-crystal_axe: Crystal Axe
-  display-name-spinel_axe: Spinel Axe
-  display-name-turquoise_axe: Turquoise Axe
-  display-name-aqua_aura_axe: Aqua Aura Axe
-  display-name-amethyst_axe: Amethyst Axe
-  display-name-bronze_axe: Bronze Axe
-  display-name-astral_pickaxe: '&3Astral Pickaxe'
-  display-name-diamond_hammer: '&3&lDiamond hammer'
-  display-name-demoniac_pickaxe: '&4&lDemoniac Pickaxe'
-  display-name-ruby_pickaxe: Ruby Pickaxe
-  display-name-crystal_pickaxe: Crystal Pickaxe
-  display-name-spinel_pickaxe: Spinel Pickaxe
-  display-name-turquoise_pickaxe: Turquoise Pickaxe
-  display-name-aqua_pickaxe: Aqua Aura Pickaxe
-  display-name-amethyst_pickaxe: Amethyst Pickaxe
-  display-name-bronze_pickaxe: Bronze Pickaxe
-  display-name-ruby_hoe: Ruby hoe
-  display-name-crystal_hoe: Crystal hoe
-  display-name-spinel_hoe: Spinel hoe
-  display-name-turquoise_hoe: Turquoise hoe
-  display-name-aqua_hoe: Aqua Aura hoe
-  display-name-amethyst_hoe: Amethyst hoe
-  display-name-bronze_hoe: Bronze hoe
-  display-name-ruby_shovel: Ruby Shovel
-  display-name-crystal_shovel: Crystal Shovel
-  display-name-spinel_shovel: Spinel Shovel
-  display-name-turquoise_shovel: Turquoise Shovel
-  display-name-aqua_aura_shovel: Aqua Aura Shovel
-  display-name-amethyst_shovel: Amethyst Shovel
-  display-name-bronze_shovel: Bronze Shovel
-  display-name-black_shears: Black Dyed Shears
-  display-name-red_shears: Red Dyed Shears
-  display-name-green_shears: Green Dyed Shears
-  display-name-blue_shears: Blue Dyed Shears
-  display-name-purple_shears: Purple Dyed Shears
-  display-name-cyan_shears: Cyan Dyed Shears
-  display-name-demoniac_hammer: '&4&lDemoniac Hammer'
-  display-name-arcane_ring: Arcane Ring
-  display-name-tomato: Tomato
-  display-name-banana: Banana
-  display-name-garlic: Garlic
-  display-name-lettuce: Lettuce
-  display-name-chili_pepper: Chili pepper
-  display-name-pear: Pear
-  display-name-rice: Rice
-  display-name-shopping_cart: Shopping Cart
-  display-name-white_go_cart: White Go-cart
-  display-name-orange_go_cart: Orange Go-cart
-  display-name-magenta_go_cart: Magenta Go-cart
-  display-name-light_blue_go_cart: Light Blue Go-cart
-  display-name-yellow_go_cart: Yellow Go-cart
-  display-name-lime_go_cart: Lime Go-cart
-  display-name-pink_go_cart: Pink Go-cart
-  display-name-gray_go_cart: Gray Go-cart
-  display-name-light_gray_go_cart: Light Gray Go-cart
-  display-name-cyan_go_cart: Cyan Go-cart
-  display-name-purple_go_cart: Purple Go-cart
-  display-name-blue_go_cart: Blue Go-cart
-  display-name-brown_go_cart: Brown Go-cart
-  display-name-green_go_cart: Green Go-cart
-  display-name-red_go_cart: Red Go-cart
-  display-name-black_go_cart: Black Go-cart
-  display-name-oak_wood_plane: Oak Wood Plane
-  display-name-spruce_wood_plane: Spruce Wood Plane
-  display-name-birch_wood_plane: Birch Wood Plane
-  display-name-jungle_wood_plane: Jungle Wood Plane
-  display-name-acacia_wood_plane: Acacia Wood Plane
-  display-name-dark_oak_wood_plane: Dark Oak Wood Plane
-  display-name-ufo: Ufo
-  display-name-broomstick: Broomstick
-  display-name-icon_left_gray: < Back
-  display-name-icon_left_blue: < Back
-  display-name-icon_right_gray: Next >
-  display-name-icon_right_blue: Next >
-  display-name-icon_up_gray: Up
-  display-name-icon_up_blue: Up
-  display-name-icon_down_gray: Down
-  display-name-icon_down_blue: Down
-  display-name-icon_next_white: Next >
-  display-name-icon_next_orange: Next >
-  display-name-icon_back_white: < Back
-  display-name-icon_back_orange: < Back
-  display-name-icon_cancel: Cancel
-  display-name-icon_confirm: Confirm
-  display-name-icon_lock: Lock
-  display-name-icon_unlock: Unlock
+  display-name-mysterious_amulet: Amulette Mystérieuse
+  display-name-ufo_toy: Jouet OVNI
+  display-name-ruby_axe: Hache en Rubis
+  display-name-crystal_axe: Hache en Cristal
+  display-name-spinel_axe: Hache en Spinelle
+  display-name-turquoise_axe: Hache en Turquoise
+  display-name-aqua_aura_axe: Hache Aqua Aura
+  display-name-amethyst_axe: Hache en Améthyste
+  display-name-bronze_axe: Hache en Bronze
+  display-name-astral_pickaxe: '&3Pioche Astrale'
+  display-name-diamond_hammer: '&3&lMarteau en Diamant'
+  display-name-demoniac_pickaxe: '&4&lPioche Démoniaque'
+  display-name-ruby_pickaxe: Pioche en Rubis
+  display-name-crystal_pickaxe: Pioche en Cristal
+  display-name-spinel_pickaxe: Pioche en Spinelle
+  display-name-turquoise_pickaxe: Pioche en Turquoise
+  display-name-aqua_pickaxe: Pioche Aqua Aura
+  display-name-amethyst_pickaxe: Pioche en Améthyste
+  display-name-bronze_pickaxe: Pioche en Bronze
+  display-name-ruby_hoe: Houe en Rubis
+  display-name-crystal_hoe: Houe en Cristal
+  display-name-spinel_hoe: Houe en Spinelle
+  display-name-turquoise_hoe: Houe en Turquoise
+  display-name-aqua_hoe: Houe Aqua Aura
+  display-name-amethyst_hoe: Houe en Améthyste
+  display-name-bronze_hoe: Houe en Bronze
+  display-name-ruby_shovel: Pelle en Rubis
+  display-name-crystal_shovel: Pelle en Cristal
+  display-name-spinel_shovel: Pelle en Spinelle
+  display-name-turquoise_shovel: Pelle en Turquoise
+  display-name-aqua_aura_shovel: Pelle Aqua Aura
+  display-name-amethyst_shovel: Pelle en Améthyste
+  display-name-bronze_shovel: Pelle en Bronze
+  display-name-black_shears: Cisailles Teintées Noires
+  display-name-red_shears: Cisailles Teintées Rouges
+  display-name-green_shears: Cisailles Teintées Vertes
+  display-name-blue_shears: Cisailles Teintées Bleues
+  display-name-purple_shears: Cisailles Teintées Violettes
+  display-name-cyan_shears: Cisailles Teintées Cyan
+  display-name-demoniac_hammer: '&4&lMarteau Démoniaque'
+  display-name-arcane_ring: Anneau Arcanique
+  display-name-tomato: Tomate
+  display-name-banana: Banane
+  display-name-garlic: Ail
+  display-name-lettuce: Laitue
+  display-name-chili_pepper: Piment
+  display-name-pear: Poire
+  display-name-rice: Riz
+  display-name-shopping_cart: Caddie
+  display-name-white_go_cart: Kart Blanc
+  display-name-orange_go_cart: Kart Orange
+  display-name-magenta_go_cart: Kart Magenta
+  display-name-light_blue_go_cart: Kart Bleu Clair
+  display-name-yellow_go_cart: Kart Jaune
+  display-name-lime_go_cart: Kart Citron
+  display-name-pink_go_cart: Kart Rose
+  display-name-gray_go_cart: Kart Gris
+  display-name-light_gray_go_cart: Kart Gris Clair
+  display-name-cyan_go_cart: Kart Cyan
+  display-name-purple_go_cart: Kart Violet
+  display-name-blue_go_cart: Kart Bleu
+  display-name-brown_go_cart: Kart Marron
+  display-name-green_go_cart: Kart Vert
+  display-name-red_go_cart: Kart Rouge
+  display-name-black_go_cart: Kart Noir
+  display-name-oak_wood_plane: Avion en Chêne
+  display-name-spruce_wood_plane: Avion en Sapin
+  display-name-birch_wood_plane: Avion en Bouleau
+  display-name-jungle_wood_plane: Avion en Acajou
+  display-name-acacia_wood_plane: Avion en Acacia
+  display-name-dark_oak_wood_plane: Avion en Chêne Sombre
+  display-name-ufo: OVNI
+  display-name-broomstick: Balai Magique
+  display-name-icon_left_gray: < Retour
+  display-name-icon_left_blue: < Retour
+  display-name-icon_right_gray: Suivant >
+  display-name-icon_right_blue: Suivant >
+  display-name-icon_up_gray: Haut
+  display-name-icon_up_blue: Haut
+  display-name-icon_down_gray: Bas
+  display-name-icon_down_blue: Bas
+  display-name-icon_next_white: Suivant >
+  display-name-icon_next_orange: Suivant >
+  display-name-icon_back_white: < Retour
+  display-name-icon_back_orange: < Retour
+  display-name-icon_cancel: Annuler
+  display-name-icon_confirm: Confirmer
+  display-name-icon_lock: Verrouiller
+  display-name-icon_unlock: Déverrouiller
   display-name-icon_web: Web
-  display-name-icon_ender_chest: EnderChest
-  display-name-icon_refresh: Refresh
-  display-name-icon_time_day: Time Day
-  display-name-icon_time_midnight: Time Midnight
-  display-name-icon_time_night: Time Night
-  display-name-icon_time_noon: Time Noon
-  display-name-icon_time_sunrise: Time Sunrise
-  display-name-icon_time_sunset: Time Sunset
-  display-name-icon_toggle_off: Toggle Off
-  display-name-icon_toggle_on: Toggle On
-  display-name-icon_arrow_chest: Arrow Chest
+  display-name-icon_ender_chest: Coffre du Néant
+  display-name-icon_refresh: Rafraîchir
+  display-name-icon_time_day: Temps Jour
+  display-name-icon_time_midnight: Temps Minuit
+  display-name-icon_time_night: Temps Nuit
+  display-name-icon_time_noon: Temps Midi
+  display-name-icon_time_sunrise: Temps Lever
+  display-name-icon_time_sunset: Temps Coucher
+  display-name-icon_toggle_off: Basculer OFF
+  display-name-icon_toggle_on: Basculer ON
+  display-name-icon_arrow_chest: Coffre Fléché
   display-name-icon_plus: Plus
-  display-name-icon_color_picker: Color Picker
-  display-name-icon_comment: Comment
-  display-name-icon_search: Search
-  display-name-boiled_water_bucket: Boiled Water Bucket
-  display-name-waterskin: Waterskin
-  lore-1-philosopher_stone: '&6[ &eSpecial effects &6]'
-  lore-2-philosopher_stone: '&7Rightclick + SHIFT: '
-  lore-3-philosopher_stone: '   - &4Lava &7to &8Obsidian'
-  lore-4-philosopher_stone: '   - &cPoppy &7to &eDandelion'
+  display-name-icon_color_picker: Sélecteur Couleur
+  display-name-icon_comment: Commentaire
+  display-name-icon_search: Rechercher
+  display-name-boiled_water_bucket: Seau d'Eau Bouillie
+  display-name-waterskin: Outre à Eau
+  lore-1-philosopher_stone: '&6[ &eEffets Spéciaux &6]'
+  lore-2-philosopher_stone: '&7Clic-droit + SHIFT: '
+  lore-3-philosopher_stone: '   - &4Lave &7en &8Obsidienne'
+  lore-4-philosopher_stone: '   - &cCoquelicot &7en &ePissenlit'
   lore-5-philosopher_stone: ' '
-  lore-6-philosopher_stone: '&7Rightclick: '
-  lore-7-philosopher_stone: '   - &eSand &7to &8Cobblestone'
-  lore-8-philosopher_stone: '   - &9Water &7to &bIce'
-  lore-9-philosopher_stone: '   - &eDandelion &7to &cPoppy'
-  lore-10-philosopher_stone: '   - &2Melon &7to &6Pumpkin'
-  lore-11-philosopher_stone: '   - &fGlass &7to &eSand'
+  lore-6-philosopher_stone: '&7Clic-droit: '
+  lore-7-philosopher_stone: '   - &eSable &7en &8Pierre'
+  lore-8-philosopher_stone: '   - &9Eau &7en &bGlace'
+  lore-9-philosopher_stone: '   - &ePissenlit &7en &cCoquelicot'
+  lore-10-philosopher_stone: '   - &2Pastèque &7en &6Citrouille'
+  lore-11-philosopher_stone: '   - &fVerre &7en &eSable'
   lore-12-philosopher_stone: ' '
-  lore-13-philosopher_stone: '&7To recharge put it in &fCrafting table'
-  lore-14-philosopher_stone: '&7center slot and put an &5Energy Orb'
-  lore-15-philosopher_stone: '&7(or other energy containers) on the right'
-  lore-1-mysterious_boots: '&6[ &eSpecial effects &6]'
-  lore-2-mysterious_boots: '&9Speed II (**:**)'
-  lore-1-diamonds_finder_potion: '&7Makes diamond ores glow behind other blocks'
-  lore-1-emeralds_finder_potion: '&7Makes emerald ores glow behind other blocks'
-  lore-1-strange_potion: '&7A mysterious potion'
-  lore-1-antidote: '&7Removes a potion effect'
-  lore-decorative-item: '&7Decorative item'
-  lore-chair: '&7Rightclick to sit'
-  lore-1-energy_extractor: '&7Use it to convert items'
-  lore-2-energy_extractor: '&7into energy'
-  lore-1-energy_converter: '&7Use it to convert energy'
-  lore-2-energy_converter: '&7into items'
-  lore-1-vending_machine: '&7Use it to get cool items'
-  lore-1-coffee_machine: '&7Makes a really good coffee'
-  lore-1-firework_launcher: '&7Hold Firework Rocket in left hand'
-  lore-2-firework_launcher: '&7and hold down right click to charge'
-  lore-3-firework_launcher: '&7the Firework Launcher'
-  lore-1-mysterious_hood: '&6[ &eSpecial effects &6]'
-  lore-2-mysterious_hood: '&9Night Vision (**:**)'
-  lore-3-mysterious_hood: '&9Unluck (**:**)'
-  lore-1-projectile: '&7Hold it in the left'
-  lore-2-projectile: '&7hand while shooting'
-  lore-3-projectile: '&7with a gun'
-  lore-1-clip: '&7Hold it in the left'
-  lore-2-clip: '&7hand while shooting'
-  lore-3-clip: '&7with an ak-47'
-  lore-1-blank_disc: '&7Can be used to craft'
-  lore-2-blank_disc: '&7music discs'
-  lore-1-ketchup_bottle: '&7Put in the crafting table'
-  lore-2-ketchup_bottle: '&7middle slot to get'
-  lore-3-ketchup_bottle: '&7some Ketchup'
-  lore-1-ketchup: '&7Obtained from'
-  lore-2-ketchup: '&7ketchup bottle'
-  lore-1-chili_powder: '&7Obtained from'
-  lore-2-chili_powder: '&7chili pepper'
-  lore-1-bug_medal: '&7Medal won by'
-  lore-2-bug_medal: '&7a very good'
-  lore-3-bug_medal: '&7bug finder.'
-  lore-1-cute_medal: '&7Medal won by'
-  lore-2-cute_medal: '&7the cutest person.'
-  lore-1-donator_medal: '&7Medal won by'
-  lore-2-donator_medal: '&7the most generous.'
-  lore-1-energy_orb: '&7Obtained from Energy Extractor'
-  lore-1-small_energy_capsule: '&7Contains &5Energy Orbs &fx8'
-  lore-1-energy_capsule: '&7Contains &dSmall Energy Capsule &fx8'
-  lore-2-energy_capsule: '&7(&5Energy Orbs &fx64&7)'
-  lore-1-shotgun_cartridge: '&7Hold it in the left'
-  lore-2-shotgun_cartridge: '&7hand while shooting'
-  lore-3-shotgun_cartridge: '&7with a Shotgun'
-  lore-1-ufo_toy: '&7Rightclick to make it fly'
-  lore-1-demoniac_pickaxe: '&7When you mine a block'
-  lore-2-demoniac_pickaxe: '&7it drops exp orbs'
-  lore-3-demoniac_pickaxe: '&750% of times.'
-  lore-1-demoniac_hammer: '&7When you mine a block'
-  lore-2-demoniac_hammer: '&7it drops exp orbs'
+  lore-13-philosopher_stone: '&7Pour recharger placez-la dans l''établi'
+  lore-14-philosopher_stone: '&7slot central et mettez un &5Orbe d''Énergie'
+  lore-15-philosopher_stone: '&7(ou autre conteneur) sur la droite'
+  lore-1-mysterious_boots: '&6[ &eEffets Spéciaux &6]'
+  lore-2-mysterious_boots: '&9Vitesse II (**:**)'
+  lore-1-diamonds_finder_potion: '&7Fait briller les minerais de diamant'
+  lore-1-emeralds_finder_potion: '&7Fait briller les minerais d''émeraude'
+  lore-1-strange_potion: '&7Une potion mystérieuse'
+  lore-1-antidote: '&7Retire un effet de potion'
+  lore-decorative-item: '&7Item décoratif'
+  lore-chair: '&7Clic-droit pour s''asseoir'
+  lore-1-energy_extractor: '&7Utilisez-le pour convertir les items'
+  lore-2-energy_extractor: '&7en énergie'
+  lore-1-energy_converter: '&7Utilisez-le pour convertir l''énergie'
+  lore-2-energy_converter: '&7en items'
+  lore-1-vending_machine: '&7Utilisez-le pour obtenir des items cool'
+  lore-1-coffee_machine: '&7Fait un très bon café'
+  lore-1-firework_launcher: '&7Tenez une fusée en main gauche'
+  lore-2-firework_launcher: '&7et maintenez le clic-droit pour charger'
+  lore-3-firework_launcher: '&7le lanceur de feux d''artifice'
+  lore-1-mysterious_hood: '&6[ &eEffets Spéciaux &6]'
+  lore-2-mysterious_hood: '&9Vision Nocturne (**:**)'
+  lore-3-mysterious_hood: '&9Malchance (**:**)'
+  lore-1-projectile: '&7Tenez-le dans la main'
+  lore-2-projectile: '&7gauche tout en tirant'
+  lore-3-projectile: '&7avec une arme'
+  lore-1-clip: '&7Tenez-le dans la main'
+  lore-2-clip: '&7gauche tout en tirant'
+  lore-3-clip: '&7avec une AK-47'
+  lore-1-blank_disc: '&7Peut être utilisé pour'
+  lore-2-blank_disc: '&7fabriquer des disques'
+  lore-1-ketchup_bottle: '&7Placez dans le slot du milieu'
+  lore-2-ketchup_bottle: '&7de l''établi pour obtenir'
+  lore-3-ketchup_bottle: '&7du Ketchup'
+  lore-1-ketchup: '&7Obtenu depuis une'
+  lore-2-ketchup: '&7bouteille de ketchup'
+  lore-1-chili_powder: '&7Obtenu depuis'
+  lore-2-chili_powder: '&7un piment'
+  lore-1-bug_medal: '&7Médaille gagnée par'
+  lore-2-bug_medal: '&7un très bon'
+  lore-3-bug_medal: '&7chasseur de bugs.'
+  lore-1-cute_medal: '&7Médaille gagnée par'
+  lore-2-cute_medal: '&7la personne la plus mignonne.'
+  lore-1-donator_medal: '&7Médaille gagnée par'
+  lore-2-donator_medal: '&7le plus généreux.'
+  lore-1-energy_orb: '&7Obtenu depuis l''Extracteur d''Énergie'
+  lore-1-small_energy_capsule: '&7Contient &5Orbe d''Énergie &fx8'
+  lore-1-energy_capsule: '&7Contient &dPetite Capsule d''Énergie &fx8'
+  lore-2-energy_capsule: '&7(&5Orbe d''Énergie &fx64&7)'
+  lore-1-shotgun_cartridge: '&7Tenez-le dans la main'
+  lore-2-shotgun_cartridge: '&7gauche tout en tirant'
+  lore-3-shotgun_cartridge: '&7avec un Fusil à Pompe'
+  lore-1-ufo_toy: '&7Clic-droit pour le faire voler'
+  lore-1-demoniac_pickaxe: '&7Lorsque vous minez un bloc'
+  lore-2-demoniac_pickaxe: '&7il donne de l''expérience'
+  lore-3-demoniac_pickaxe: '&750% du temps.'
+  lore-1-demoniac_hammer: '&7Lorsque vous minez un bloc'
+  lore-2-demoniac_hammer: '&7il donne de l''expérience'
   lore-3-demoniac_hammer: ''
-  lore-4-demoniac_hammer: '&bMines 3x3x3'
-  lore-1-arcane_ring: '&6[ &eSpecial effects &6]'
-  lore-2-arcane_ring: '&7Return to life'
+  lore-4-demoniac_hammer: '&bMine une zone de 3x3x3'
+  lore-1-arcane_ring: '&6[ &eEffets Spéciaux &6]'
+  lore-2-arcane_ring: '&7Retour à la vie'

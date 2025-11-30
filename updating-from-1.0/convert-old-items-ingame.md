@@ -1,21 +1,21 @@
-# Convert old items/blocks ingame
+# Convertir les anciens items/blocs en jeu
 
 {% hint style="danger" %}
-**It's recommended to start a fresh new world and don't use the old one as converters work but are experimental.**
+**Il est recommandé de commencer sur un tout nouveau monde et de ne pas utiliser l'ancien car les convertisseurs fonctionnent mais sont expérimentaux.**
 {% endhint %}
 
 {% hint style="danger" %}
-These features MAY be laggy, leave them enabled only for some days and then disable them to avoid useless lag.
+Ces fonctionnalités PEUVENT causer des lags, laissez-les activées seulement pendant quelques jours et désactivez-les ensuite pour éviter des lags inutiles.
 {% endhint %}
 
-## How to auto convert old items in your worlds
+## Comment convertir automatiquement les anciens items dans vos mondes
 
-When you update from ItemsAdder 1.0 to 2.0 you noticed that most of the items has changed, so they are not the same as old items before the update.\
-That's why I had to code a feature that auto replaces old items with new items. This process is run everytime a player opens an inventory in the world (chests, containers.. but NOT their own inventory).
+Lorsque vous passez d'ItemsAdder 1.0 à 2.0, vous remarquerez que la plupart des items ont changé, ils ne sont donc plus les mêmes que les anciens items avant la mise à jour.\
+C'est pourquoi j'ai dû coder une fonctionnalité qui remplace automatiquement les anciens items par les nouveaux. Ce processus s'exécute chaque fois qu'un joueur ouvre un inventaire dans le monde (coffres, conteneurs... mais PAS son propre inventaire).
 
-In order to enable this you have to set this property to true in `converter.yml `of **ItemsAdder 2.0**
+Pour activer ceci, vous devez définir cette propriété sur true dans le fichier `converter.yml` d'**ItemsAdder 2.0**.
 
-#### Be sure to set inventory-open: true
+#### Assurez-vous de définir inventory-open: true
 
 ```
 items-auto-update:
@@ -23,11 +23,11 @@ items-auto-update:
   inventory-open: true
 ```
 
-## How to auto convert old blocks placed in worlds
+## Comment convertir automatiquement les anciens blocs placés dans les mondes
 
-You have to open `converter.yml `and map your own old blocks **model_id **with the new **namespaced **block of IA 2.0. For example I've already added old ItemsAdder 1.0 blocks map to convert them to 2.0 namespaced blocks.
+Vous devez ouvrir `converter.yml` et faire correspondre le **model_id** de vos propres anciens blocs avec le nouveau bloc **namespaced** d'IA 2.0. Par exemple, j'ai déjà ajouté la table de correspondance des anciens blocs d'ItemsAdder 1.0 pour les convertir vers les blocs namespaced de la 2.0.
 
-#### Be sure to set enabled: true
+#### Assurez-vous de définir enabled: true
 
 ```
 blocks:

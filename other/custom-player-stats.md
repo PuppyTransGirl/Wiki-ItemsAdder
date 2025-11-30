@@ -2,26 +2,26 @@
 icon: database
 ---
 
-# Custom Player Stats
+# Les statistiques personnalisées des joueurs
 
-## What are player stats?
+## Qu'est-ce que les statistiques des joueurs ?
 
-They custom attributes added by ItemsAdder, you can add and read them using a special command: `/iaplayerstat`
+Ce sont des attributs personnalisés ajoutés par ItemsAdder, vous pouvez les ajouter et les lire à l'aide d'une commande spéciale : `/iaplayerstat`
 
-You can then use **PlaceholderAPI** to show them anywhere or bind them to a HUD.\
-I did that to create thirst and mana. Check my [default configs](https://github.com/search?q=repo%3AItemsAdder%2FDefaultPack+player_stat_name\&type=code) for examples.
+Vous pouvez ensuite utiliser **PlaceholderAPI** pour les afficher n'importe où ou les lier à un HUD.\
+Je l'ai fait pour créer la soif et le mana. Consultez mes [configs par défaut](https://github.com/search?q=repo%3AItemsAdder%2FDefaultPack+player_stat_name\&type=code) pour des exemples.
 
 ### Example:&#x20;
 
-`/iaplayerstat write LoneDev thirst 6`\
-`/iaplayerstat read LoneDev thirst float`
+`/iaplayerstat write LoneDev soif 6`\
+`/iaplayerstat read LoneDev soif float`
 
-## Saving player stats
+## Sauvegarde des statistiques des joueurs
 
-### Custom NBT file
+### Fichier NBT personnalisé
 
-Saving them into a custom NBT file handled by ItemsAdder which can be later deleted easily.\
-This file is saved into `plugins\ItemsAdder\storage\players\stats\` folder.
+Les sauvegarder dans un fichier NBT personnalisé géré par ItemsAdder, qui peut être supprimé facilement par la suite.\
+Ce fichier est enregistré dans le dossier `plugins\ItemsAdder\storage\players\stats\`.
 
 ```yaml
 player_stats:
@@ -30,10 +30,10 @@ player_stats:
 
 <figure><img src="../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
 
-### player.dat file
+### fichier player.dat
 
-Saving them into the vanilla `player.dat` file.\
-This is useful if you want to sync your server and you already sync the player dat files.
+Les sauvegarder dans le fichier `player.dat` vanilla.\
+Ceci est utile si vous souhaitez synchroniser votre serveur et que vous synchronisez déjà les fichiers player dat.
 
 ```yaml
 player_stats:

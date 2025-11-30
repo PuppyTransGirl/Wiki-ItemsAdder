@@ -2,11 +2,11 @@
 icon: square-check
 ---
 
-# Compatibility with other plugins
+# Compatibilité avec les autres plugins
 
 {% hint style="info" %}
-These plugins may not always be compatible with the main plugin.\
-I tested them at the time of this edit and they worked fine, but future updates could break compatibility, and I have no control over that.
+Ces plugins ne sont pas toujours compatibles avec le plugin principal.\
+Je les ai testés au moment de cette édition et ils fonctionnaient bien, mais de futures mises à jour pourraient casser la compatibilité, et je n'ai aucun contrôle là-dessus.
 {% endhint %}
 
 {% content-ref url="compatible/" %}

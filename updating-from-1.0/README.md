@@ -1,2 +1,2 @@
-# ➡ Updating from 1.0
+# ➡ Mettre à jour depuis la 1.0
 
