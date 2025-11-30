@@ -2,7 +2,7 @@
 icon: circle-info
 ---
 
-# Terms Of Service
+# Conditions d'Utilisation
 
 ### Comment demander du support
 
